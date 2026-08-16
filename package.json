@@ -1,0 +1,30 @@
+{
+  "name": "@sadhfnhvi/moranxi-character-card",
+  "version": "1.0.0",
+  "description": "墨染希（小希）角色卡 Agent —— 赤磐神社巫女 / 白泷学园二年级 / 高岭昂晴的青梅竹马。从小说文本提取的角色扮演 Skill。",
+  "keywords": [
+    "character-card",
+    "roleplay",
+    "agent",
+    "workbuddy",
+    "skill",
+    "moranxi"
+  ],
+  "author": "sadhfnhvi",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "soul.md",
+    "limit.md",
+    "README.md",
+    "LICENSE",
+    "resource"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadhfnhvi/moranxi-character-card.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
